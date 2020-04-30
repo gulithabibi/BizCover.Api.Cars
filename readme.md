@@ -1,6 +1,3 @@
-## Hi everyone
-
-Completed already for this test, i hope my qualification match with the requirement.
 
 Note for testing:
 1. To call this API need authentication, to get authentication can run this:
@@ -38,5 +35,3 @@ Additional Information:
 - Logging, using third party provider (NLog).
    
    
-Name: Gulit Habibi
-Email:gulithabibi@gmail.com
